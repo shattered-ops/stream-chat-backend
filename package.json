@@ -4,7 +4,7 @@
   "description": "Backend for multi-platform stream chat viewer",
   "main": "src/server.js",
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node server.js"
   },
   "engines": {
     "node": "18.x"
