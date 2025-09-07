@@ -170,3 +170,8 @@ io.on('connection', (socket) => {
         }
     });
 });
+
+// --- Start the Server ---
+server.listen(PORT, () => {
+    console.log(`Server is listening on port ${PORT}`);
+});
