@@ -12,9 +12,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "^126.0.1",
-    "socket.io": "^4.7.2",
-    "tmi.js": "^1.8.5"
+    "googleapis": "126.0.1",
+    "socket.io": "4.7.2",
+    "tmi.js": "1.8.5"
   }
 }
 
