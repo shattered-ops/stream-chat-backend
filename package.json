@@ -9,14 +9,10 @@
   "engines": {
     "node": "18.x"
   },
-  "volta": {
-    "node": "18.17.1",
-    "npm": "9.6.7"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "googleapis": "126.0.1",
+    "googleapis": "126.01",
     "socket.io": "4.7.2",
     "tmi.js": "1.8.5"
   }
